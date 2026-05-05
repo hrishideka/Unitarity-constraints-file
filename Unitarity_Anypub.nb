@@ -34,7 +34,7 @@ e8609b2cb866"],
 Cell[BoxData[{
  RowBox[{
   RowBox[{
-  "SetDirectory", "[", "\"\</home/hrishikesh/Downloads/AnyPub\>\"", "]"}], 
+  "SetDirectory", "[", "\"\</path_to_folder/AnyPub\>\"", "]"}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"Unprotect", "[", "MatrixMinimalPolynomial", "]"}], ";"}]}], "Input",
